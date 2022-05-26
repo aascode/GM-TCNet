@@ -51,4 +51,4 @@ x_source = data[source_name][0]
 y_source = data[source_name][1]
 y_source = to_categorical(y_source,num_classes=len(CLASS_LABELS))
 model = GMTCN_Model(input_shape = (x_source.shape[1:]), class_label = CLASS_LABELS)
-model.train(x_source, y_source,None,None,n_epochs=200,data_name = source_name)
+model.train(x_source, y_source,None,None,n_epochs=300,data_name = source_name)
