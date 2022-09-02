@@ -24,7 +24,7 @@ The four public emotion datasets are used in the experiments: the Institute of A
 
 # Features Processing
 
-In the experiments, the 39-D MFCCs are extracted from the Librosa toolbox with the default settings. That is, the frame length is 0.05 s, the frame shift is 0.0125 s, the sample rate is 22050 kHz and the window function added for the speech is Hamming window. 
+In the experiments, the 39-D MFCCs are extracted from the Librosa toolbox with the default settings. That is, the frame length is 0.05 s, the frame shift is 0.0125 s, the sample rate is 22050 Hz and the window function added for the speech is Hamming window. 
 
 ```python
 def get_feature(file_path: str, mfcc_len: int = 39, flatten: bool = False):
