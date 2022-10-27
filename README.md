@@ -1,5 +1,9 @@
 # GM-TCNet: Gated Multi-scale Temporal Convolutional Network using Emotion Causality for Speech Emotion Recognition
 
+# Note
+
+We apologize for any inconvenience caused by some errors in the publication process. If you would like to read or follow our work, you can view it on arxiv or researchgate, or find the correct version of our paper on the GitHub. 
+If you have any questions, please feel free to contact (me)[jiaxin-ye@foxmail.com], and I will be honored to answer your questions. Best wishes from JX Ye.
 
 # Introduction
 
