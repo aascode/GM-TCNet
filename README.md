@@ -2,7 +2,7 @@
 
 # **_Note_**
 
-We apologize for any inconvenience caused by some errors in the publication process. If you would like to read or follow our work, you can view it on arxiv or researchgate, or find the correct version of our paper on the GitHub or [arxiv](https://arxiv.org/abs/2210.15834), named `GM-TCN_preprint.pdf`. 
+We apologize for any inconvenience caused by some errors in the publication process. If you would like to read or follow our work, you can view it on arxiv or researchgate, or find the correct version of our paper on the GitHub named `GM-TCN_preprint.pdf` or [arxiv](https://arxiv.org/abs/2210.15834). 
 If you have any questions, please feel free to contact me through **jiaxin-ye@foxmail.com**, and I will be honored to answer your questions. Best wishes from JX Ye.
 
 # Introduction
