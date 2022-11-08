@@ -7,7 +7,7 @@ If you have any questions, please feel free to contact me through **jiaxin-ye@fo
 
 # Introduction
 
-These are the source code or the paper: JiaXin Ye#, Xin-Cheng Wen#, Xuan-Ze WANG, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu*, GM-TCNet: Gated Multi-scale Temporal Convolutional Network using Emotion Causality for Speech Emotion Recognition, **Speech Communication (CCF-B)**. 
+These are the **official repository** for the paper: JiaXin Ye#, Xin-Cheng Wen#, Xuan-Ze WANG, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu\*, GM-TCNet: Gated Multi-scale Temporal Convolutional Network using Emotion Causality for Speech Emotion Recognition, **Speech Communication (CCF-B)**. 
 
 In this paper, we propose a Gated Multi-scale Temporal Convolutional Network (GM-TCNet) to construct a novel emotional causality representation learning component with a multi-scale receptive field. 
 
