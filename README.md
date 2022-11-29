@@ -75,3 +75,19 @@ GM-TCNet
 ├─ Utils.py
 └─ main.py
 ```
+
+## Citation
+
+If you compare or use our model in your own work, please cite the following
+[paper](https://arxiv.org/abs/2210.15834):
+
+```bibtex
+@article{jiaxin2022GMTCN,
+    title = {GM-TCNet: Gated Multi-scale Temporal Convolutional Network using Emotion Causality for Speech Emotion Recognition},
+    author = {Jia-Xin Ye and Xin-Cheng Wen and Xuan-Ze Wang and Yong Xu and Yan Luo and Chang-Li Wu and Li-Yan Chen and Kun-Hong Liu},
+    journal = {Speech Communication},
+    volume = {145},
+    pages = {21-35},
+    year = {2022}
+}
+```
